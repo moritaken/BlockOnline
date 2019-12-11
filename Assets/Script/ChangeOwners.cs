@@ -8,7 +8,6 @@ public class ChangeOwners: MonoBehaviourPunCallbacks
 {
     public VRTK.VRTK_InteractableObject toss;
 
-    // Start is called before the first frame update
     void Start()
     {
         toss.InteractableObjectGrabbed += Toss_InteractableObjectGrabbed;
