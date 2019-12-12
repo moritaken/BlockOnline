@@ -70,6 +70,7 @@
      <Compile Include="Assets\Script\LeftHandController.cs" />
      <Compile Include="Assets\Script\NManager.cs" />
      <Compile Include="Assets\Script\RightHandController.cs" />
+     <Compile Include="Assets\Script\SwitchStage.cs" />
      <Compile Include="Assets\Script\ViveManager.cs" />
      <Compile Include="Assets\Starfield Skybox\Demo\Script\LookCamera.cs" />
      <Compile Include="Assets\Starfield Skybox\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs" />
