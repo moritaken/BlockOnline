@@ -1,7 +1,7 @@
 # BlockOnline
 遠隔でのブロックゲーム教材
 
-# Requirements
+# 開発環境
 * SteamVR 1.2.3
 * VRTK 3.3.0
 * Photon(PUN2)
